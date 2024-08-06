@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'hcodebr/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'alexjunior/ecommerce',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '8b64ae6f1be02ecfa93117f3ee3cb4619c0c5dbd',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'hcodebr/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'alexjunior/ecommerce' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '8b64ae6f1be02ecfa93117f3ee3cb4619c0c5dbd',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
